@@ -1,0 +1,7 @@
+C:\cloud\bin\Release\net6.0\publish\cloud.exe
+C:\cloud\bin\Release\net6.0\publish\appsettings.Development.json
+C:\cloud\bin\Release\net6.0\publish\appsettings.json
+C:\cloud\bin\Release\net6.0\publish\cloud.dll
+C:\cloud\bin\Release\net6.0\publish\cloud.deps.json
+C:\cloud\bin\Release\net6.0\publish\cloud.runtimeconfig.json
+C:\cloud\bin\Release\net6.0\publish\cloud.pdb
